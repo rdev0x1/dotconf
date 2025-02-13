@@ -1,0 +1,7 @@
+conf.d/private.fish
+completions/fisher.fish
+completions/rustup
+functions/fisher.fish
+functions/bass.fish
+functions/__bass.py
+fish_variables
